@@ -1,3 +1,5 @@
+binome Loubari chaima Boukari massilia
+
 from ply import lex, yacc
 
 
